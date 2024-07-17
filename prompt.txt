@@ -1,0 +1,51 @@
+Somos Zem Remodeling, nuestro objetivo principal es brindar servicios de remodelación de interiores y exteriores de alta calidad a propietarios de viviendas en el área de Caracas, Venezuela. La empresa busca transformar los espacios de interiores y exteriores de sus clientes en ambientes funcionales, estéticos y que reflejen su estilo personal, utilizando materiales de primera calidad, técnicas de construcción avanzadas y un enfoque centrado en la satisfacción del cliente, crea la página web con un diseño moderno, profesional y atractivo.
+
+
+Otra idea de prompt:
+
+Crea el código para una página web para una empresa llamada Zem Remodeling, el objetivo principal de la empresa es brindar servicios de remodelación de interiores y exteriores de alta calidad a propietarios de viviendas en el área de Caracas, Venezuela.
+Haz todo el código html y css en archivos separados, procura que el código sea lo mas optimizado y simple posible haz que tenga un diseño sencillo, moderno, responsivo y minimalista.
+
+
+
+Otro prompt. (JavaScript) - Para aprender a programar.
+
+Ejercicio: Tienda de Ropa
+
+Descripción:
+
+Imagina que tienes una tienda de ropa y necesitas un programa para ayudarte a gestionar tu inventario y ventas. Crea un programa en JavaScript que te permita:
+
+Agregar productos: El programa debe permitirte ingresar información sobre un producto nuevo, como su nombre, precio, categoría (por ejemplo, camisa, pantalón, vestido) y cantidad en stock. Almacena esta información en un array de objetos.
+
+Vender productos: El programa debe permitirte buscar un producto por nombre o categoría. Una vez que se encuentre el producto, el programa debe preguntar cuántas unidades se quieren vender y actualizar la cantidad en stock en consecuencia.
+
+Generar reporte de ventas: El programa debe generar un reporte que muestre el total de ventas por categoría. 
+
+
+Otro prompt
+
+Suministrando una sección de la página. (Una imagen).
+
+Eres un experto tanto de ux/ui y ademas eres un experto en desarrollo web front end, con la imagen suministrada crear la sección header de la página web, utilizando html y css de forma externa, procura que el código sea lo mas optimizado y simple posible haz que tenga un diseño sencillo, moderno, responsivo y minimalista. 
+
+Mejorando el prompt con AI:
+
+En base a la imagen proporcionada, diseñe un encabezado de página web HTML con un menú de navegación horizontal, un logotipo centrado y un fondo de color sólido. Utilice CSS externo para aplicar estilos modernos y minimalistas, asegurando que el diseño sea responsivo
+
+Crear una sección de encabezado de página web moderna, minimalista, responsiva y con un diseño simple utilizando HTML y CSS externo, a partir de una imagen proporcionada.
+
+
+Prompt, para crear una página web, parecida a otra que nos guste:
+
+Escrito por mi:
+
+Eres un experto diseñador y programador frontend, somos una empresa llamada cedavilu web academy, y nos dedicamos a dar cursos en linea sobre diferentes tecnologías de desarrollo web, ayudame a crear una página web tipo landing page,  para ello utilizas tecnologías como html, css, javascript y la librería bootstrap, puedes utilizar imágenes de forma aleatoria de plataformas como pixabay, unsplash o pixels, haz que la página tenga un diseño sencillo, moderno, responsivo y minimalista.
+
+Mejorado por la IAG:
+Crear una página web para una academia virtual llamada Cedavilu Web Academy, dedicada a proyectar cursos sobre desarrollo web.
+Estilo: Moderno, sencillo, minimalista, responsivo
+Utiliza tecnologías como: HTML, CSS, JavaScript, Bootstrap
+Imágenes aleatorias de Pixabay, Unsplash o Pixels
+Elementos: Encabezado con logotipo de Cedavilu Web Academy,  menú de navegación principal, secciones con títulos llamativos, breve descripción de Cedavilu Web Academy, llamada a la acción (por ejemplo, botón para inscribirse en un curso), sección de cursos con: Tarjetas o fichas que muestren información sobre los diferentes cursos, enlaces a páginas de cada curso, sección de testimonios con: Citas de estudiantes satisfechos, imágenes de los estudiantes, sección de contacto con: Formulario de contacto, información de contacto (dirección, correo electrónico, teléfono), 
+pie de página con:  Derechos de autor, enlaces a redes sociales.
